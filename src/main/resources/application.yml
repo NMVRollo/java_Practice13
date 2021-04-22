@@ -1,0 +1,6 @@
+student:
+  name: StudentName
+  last_name: StudentLastname
+  group: StudentGroup
+  sName: Hello
+  sLastname: World
